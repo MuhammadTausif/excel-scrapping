@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'excel-scrapping';
+  title = 'Excel to JSON Data conversion app';
 }
